@@ -4,8 +4,10 @@
 
 ### Statistic Formulas
 
-
+```
 CTR         if ( impressions - not valid impressions ) > 0; ( (clicks - not valid clicks) / (impressions - not valid impressions) ) * 100
+```
+
 ECPM        if ( impressions - not valid impressions ) > 0; ( payout / ( (impressions - not valid impressions) ) / 100)
 ECPC        if ( clicks - not valid clicks )  > 0; ( revenue / (clicks - not valid clicks) )
 ECPA        if ( leads > 0 ); ( payout / leads )

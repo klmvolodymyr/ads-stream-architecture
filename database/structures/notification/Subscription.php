@@ -9,5 +9,6 @@ class Subscription
     public string $mailingClass;
     public int $period;
     public \DateTime $created;
-
+    public \DateTime $lastSent;
+    public int $id;
 }

@@ -1,0 +1,14 @@
+<?php
+
+
+class AdvertiserOptions
+{
+    // FIREWALL_IP_OPTION
+    // FIRE_WALL_HASH_OPTION
+    // FIREWALL_ENABLE_OPTION
+    // FIREWALL_ENABLE_OPTION
+    // FIREWALL_STRATEGY_OPTION
+    // SELF_REGISTERED
+    // ADV_ID (ADVERTISER)
+
+}

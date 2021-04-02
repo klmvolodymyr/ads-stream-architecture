@@ -9,7 +9,6 @@ class Users
     // SITE_STATS_TOUR
     // Campaign_list_tour
     // ALLOW_APPANIE
-
     public string $login;
     public string $status;
     public \DateTime $created;
@@ -79,5 +78,4 @@ class Users
     public string $email;
     public string $password;
     public \DateTime $lastLogin;
-
 }

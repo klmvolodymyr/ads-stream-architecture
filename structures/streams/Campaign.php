@@ -1,0 +1,42 @@
+<?php
+
+
+class Campaign
+{
+//    "id",
+//    "memberId",
+//    "name",
+//    "status",
+//    "type",
+//    "created",
+//    "modified",
+//    "startDate",
+//    "endDate",
+//    "dailyBudget",
+//    "dailyBudgetLeft",
+//    "dailyBudgetLeftDisplay",
+//    "dailyBudgetEnabled",
+//    "dailyImpressions",
+//    "dailyImpressionsLeft",
+//    "dailyImpressionsEnabled",
+//    "autoOptimization",
+//    "pausedDate",
+//    "pausedBy",
+//    "frequencyCapTimes",
+//    "frequencyCapEvery",
+//    "frequencyCapUnits",
+//    "flatPercentage",
+//    "flatRateCpm",
+//    "flatTotalCost",
+//    "lastUpdate",
+//    "isTest",
+//    "updateWeightsAutomatically",
+//    "isSponsored",
+//    "deviceType",
+//    "targetGroup",
+//    "flagSpeedSpending",
+//    "flatRevenueType",
+//    "subtype",
+//    "isProbation",
+//    "isLocked"
+}
